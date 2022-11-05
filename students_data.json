@@ -1,0 +1,23 @@
+{
+    "student_1": {
+        "student_id": 0,
+        "first_name": "Saher",
+        "last_name": "Muhamed",
+        "age": 21,
+        "Country": "Al Ibrahimiya, Sharkiya"
+    },
+    "student_2": {
+        "student_id": 1,
+        "first_name": "Salma",
+        "last_name": "Yasser",
+        "age": 21,
+        "Country": "Mit Ghamr, Dakahliya"
+    },
+    "student_3": {
+        "student_id": 2,
+        "first_name": "Salma",
+        "last_name": "Amer",
+        "age": 21,
+        "Country": "Mit Ghamr, Dakahliya"
+    }
+}
